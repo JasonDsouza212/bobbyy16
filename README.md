@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React js, backend with nodejs**
 
-- 💬 Ask me about **Frontend, reactjs**
+- 💬 Ask me about **Mern Stack**
 
 - 📫 How to reach me **bobbyyyyy16@gmail.com**
 
