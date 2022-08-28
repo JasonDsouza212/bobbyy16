@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek k</h1>
-<h3 align="center">A passionate Full Stack developer from India.Im currently seeking an entry-level position with company to use my skills in coding and assisting of the timely completion of projects.</h3>
+<h3 align="center">
+A passionate Full Stack developer from India. Im currently seeking an entry-level Software Engineer job with company to use my skills in coding and assisting of the timely completion of projects..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bobbyy16&label=Profile%20views&color=0e75b6&style=flat" alt="bobbyy16" /> </p>
 
