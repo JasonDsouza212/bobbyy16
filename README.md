@@ -6,7 +6,7 @@ A passionate Full Stack developer from India. Im currently seeking an entry-leve
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bobbyy16" alt="bobbyy16" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/__codr__" target="blank"><img src="https://img.shields.io/twitter/follow/__codr__?logo=twitter&style=for-the-badge" alt="__codr__" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Abhishek_kmra" target="blank"><img src="https://img.shields.io/twitter/follow/__codr__?logo=twitter&style=for-the-badge" alt="__codr__" /></a> </p>
 
 - 🌱 I’m currently learning **React js, backend with nodejs**
 
@@ -16,7 +16,7 @@ A passionate Full Stack developer from India. Im currently seeking an entry-leve
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/__codr__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__codr__" height="30" width="40" /></a>
+<a href="https://twitter.com/Abhishek_kmra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__codr__" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishek-k-7597771ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-k-7597771ba" height="30" width="40" /></a>
 </p>
 
